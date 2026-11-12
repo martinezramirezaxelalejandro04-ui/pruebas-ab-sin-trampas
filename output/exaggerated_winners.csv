@@ -1,0 +1,5 @@
+share_of_needed_visitors_pct,visitors_per_variant,tests_that_detect_it_pct,true_lift_pct,lift_reported_by_winners_pct
+10,5321,14.1,10.0,29.0
+25,13302,28.7,10.0,18.3
+50,26605,51.0,10.0,13.6
+100,53211,80.0,10.0,10.9
